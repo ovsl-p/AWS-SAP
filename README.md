@@ -6,6 +6,8 @@ AWS Certified Solutions Architect – Professional（SAP-C02）の勉強メモ�
 
 > 知らない単語をなくして手を止めない → 問題を反射で解けるまで回す → 「なぜ？」が気になったところを深掘りする
 
+学習計画は [00_plan.md](00_plan.md) を参照。
+
 ## 4つのステップとファイル
 
 | Step | やること | ファイル |
