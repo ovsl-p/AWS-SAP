@@ -54,6 +54,7 @@
 | VPC ピアリング | VPC 同士を1対1でつなぐ（中継できない）！ | Transit Gateway |
 | AWS Transit Gateway | 多数の VPC とオンプレをつなぐハブ！ | VPC ピアリング |
 | ★ AWS Cloud WAN | 世界規模のネットワークをポリシーで一元管理！ | Transit Gateway |
+| Egress-Only インターネットゲートウェイ | IPv6 で外へは出られるが、外からは入れない！ | NAT ゲートウェイ |
 | AWS PrivateLink（VPC エンドポイント） | インターネットを通らずサービスへ接続！ | VPC ピアリング |
 | ★ Amazon VPC Lattice | VPC やアカウントをまたいでサービス同士をつなぐ！ | PrivateLink、Transit Gateway |
 | AWS Direct Connect | オンプレと AWS の専用線！ | Site-to-Site VPN |
